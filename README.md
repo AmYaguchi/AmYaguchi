@@ -1,5 +1,5 @@
 ### Hi there 👋. I am Jay Patel.
-> I am a frontend developer!
+> I am a web developer!
 
 
 ## My GitHub Stats❤️
